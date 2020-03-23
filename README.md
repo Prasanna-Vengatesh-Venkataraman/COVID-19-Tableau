@@ -11,7 +11,7 @@ Data - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#co
 Story 2 - COVID-19 across Italy
 Tile 1 - Total Cases across the globe (with a drop down menu to view cases across individual regions) 
 Tile 2 - HeatMap depicting percentage of cases across different regions
-Tile 3 - Barcharts showing number of cases across all regions and differetiating case types (Positive, Recovered and Dead)
+Tile 3 - Barcharts showing number of cases across all regions and differentiating case types (Positive, Recovered and Dead)
 Tile 4 - Line and Area charts comparing number of reccoveries and deaths per day
 Tile 5 - Packed Bubbles indicating number of normal and intensive care patients and Barchart indicating total hospitalized patients
 Tile 6 - Line chart showing number of new cases per day and comparing it against Total cases recorded
