@@ -1,6 +1,6 @@
 # Visualization of Spread of COVID-19 [as of March 20, 2020]
 
-Story 1 - COVID-19
+### Story 1 - COVID-19
 
 Tile 1 - Total Cases across the globe (with a drop down menu to view cases across individual/multiple countries) 
 
@@ -13,7 +13,9 @@ Tile 4 - Map and a bar chart depciting the total number of recoveries (with a dr
 Data - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv
 
 
-Story 2 - COVID-19 across Italy
+
+
+### Story 2 - COVID-19 across Italy
 
 Tile 1 - Total Cases across the globe (with a drop down menu to view cases across individual regions) 
 
