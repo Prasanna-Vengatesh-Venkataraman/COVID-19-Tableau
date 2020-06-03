@@ -1,5 +1,7 @@
 # Visualization of Spread of COVID-19 [as of March 20, 2020]
 
+Complete visualizations can be viewed on Tableau Public at this [Link](https://public.tableau.com/profile/prasanna.vengatesh.venkataraman#!/vizhome/COVID-19SpreadWorldItaly/COVID-19)
+
 ### Story 1 - COVID-19  
 Tile 1 - Total Cases across the globe (with a drop down menu to view cases across individual/multiple countries)  
 Tile 2 - Map depciting the total confirmed cases across different countries  
